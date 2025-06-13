@@ -1,0 +1,21 @@
+Food,Category,Calories,Protein(g),Fat(g),Carbs(g),Vitamin A(mcg),Vitamin C(mg),Calcium(mg),Iron(mg)
+Milk,Dairy,122,8,5,12,149,0,305,0
+Apple,Fruit,95,0.5,0.3,25,98,8.4,11,0.2
+Chicken,Protein,239,27,14,0,13,0,15,1.3
+Spinach,Vegetable,23,2.9,0.4,3.6,469,28.1,99,2.7
+Rice,Grain,206,4.3,0.4,45,0,0,10,0.2
+Cheese,Dairy,113,7,9,1.3,265,0,200,0.7
+Orange,Fruit,62,1.2,0.2,15.4,225,70,52,0.1
+Egg,Protein,78,6,5,0.6,75,0,28,0.9
+Carrot,Vegetable,41,0.9,0.2,10,835,6,33,0.3
+Beef,Protein,250,26,17,0,0,0,11,2.6
+Broccoli,Vegetable,55,3.7,0.6,11.2,567,89.2,47,1.1
+Almonds,Nut,164,6,14,6,0,0,76,1.0
+Yogurt,Dairy,59,10,0.4,3.6,27,1.5,110,0.1
+Banana,Fruit,105,1.3,0.4,27,76,10.3,5,0.3
+Tofu,Protein,94,10,6,2,0,0,253,1.6
+Sweet Potato,Vegetable,103,2,0.2,24,961,22.3,40,0.7
+Bread,Grain,79,2.6,1,15,0,0,33,0.5
+Tomato,Vegetable,22,1.1,0.2,4.8,833,13.7,18,0.5
+Fish,Protein,206,22,12,0,45,1.5,34,0.9
+Peanuts,Nut,161,7,14,5,0,0,17,1.3

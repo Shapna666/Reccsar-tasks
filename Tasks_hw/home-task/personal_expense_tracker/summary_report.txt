@@ -1,0 +1,18 @@
+Total Spent: 860.50
+Average Transaction: 107.56
+Anomaly Threshold: 363.92
+
+Top Categories:
+Category
+Housing          550.0
+Groceries        120.0
+Shopping          80.0
+Food              65.0
+Subscriptions     18.0
+Utilities         15.0
+Transport         12.5
+
+Monthly Summary:
+Month
+2025-05    860.5
+Freq: M
